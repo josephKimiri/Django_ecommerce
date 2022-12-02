@@ -1,1 +1,1 @@
-web: gunicorn openai_ecommerce.wsgi --log-file  -
+web: gunicorn openai_ecommerce.wsgi 
